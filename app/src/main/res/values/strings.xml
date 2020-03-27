@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">COVID</string>
+
+    <string name="Username">Username</string>
+
+    <string name="Password">Password</string>
+    <string name="p3">p3</string>
+    <string name="register">register</string>
+
+    <string name="not_registered">not_registred</string>
+
+    <string name="login">login</string>
+    <string name="welcome">Welcome!</string>
+    <string name="todo1">TODO</string>
+    <string name="quit">quit</string>
+    <string name="symptoms_of_covid_19">Symptoms of COVID_19</string>
+    <string name="todo2">TODO</string>
+    <string name="hand_washing_reminder">Hand washing reminder</string>
+    <string name="protection_from_covid_19">Protection from COVID_19</string>
+    <string name="covid_19_distribution">COVID_19 distribution</string>
+    <string name="about_covid_19">About Covid_19</string>
+    <string name="img1">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="img2">TODO</string>
+    <string name="type_password_again">Type password again</string>
+    <string name="delete">Delete</string>
+    <string name="call_for_help">Call For help</string>
+    <string name="todo3">TODO</string>
+    <string name="if_you_have_any_of_this_symptoms_please_call_for_help">If you have any of this symptoms please call for help.</string>
+    <string name="calculate">calculate</string>
+    <string name="you_have_cough">You have cough</string>
+    <string name="feeling_cold">Feeling cold</string>
+    <string name="you_have_flame_in_the_throat">You have flame in the throat</string>
+    <string name="body_tempeture_over_38_7">Body tempeture over 38.7</string>
+    <string name="breath_difficulties">Breath difficulties</string>
+    <string name="feeling_tired_and_distressed">Feeling tired and distressed</string>
+    <string name="you_was_travelling_for_the_last_14_days">You was travelling for the last 14 days</string>
+    <string name="you_are_in_a_town_full_of_corona_desease">You are in a town full of Corona disease</string>
+    <string name="you_meet_somebody_that_have_corona">You meet somebody that have Corona !</string>
+    <string name="stay_in_home">#STAY_IN_HOME</string>
+    <string name="todo9">TODO</string>
+    <string name="stomach_pain">Stomach pain</string>
+    <string name="haid_ail">Haid ail</string>
+    <string name="body_ail">Body ail</string>
+</resources>
